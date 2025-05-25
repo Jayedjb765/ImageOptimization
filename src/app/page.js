@@ -1,3 +1,4 @@
+import Navbar from '@/components/Navbar';
 import Product from '@/components/Product/Product';
 import Link from 'next/link';
 import React from 'react';
@@ -11,6 +12,7 @@ const HomePage = async () => {
   const products = await res.json()
   return (
     <div>
+
       <h1 className='text-4xl text-center'>This is home page</h1>
       <div className='w-[90%] grid grid-cols-3 gap-8 mx-auto'> {
         products.slice(0, 3).map(product => <Product key={product.id} product={product}></Product>)
