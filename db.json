@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 14 Pro",
+      "category_name": "Smartphones",
+      "price": 1200.99,
+      "brand": "Apple",
+      "brand_image": "https://example.com/brands/apple.png",
+      "image": "https://example.com/products/iphone14pro.png"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S23",
+      "category_name": "Smartphones",
+      "price": 1230.99,
+      "brand": "Samsung",
+      "brand_image": "https://example.com/brands/samsung.png",
+      "image": "https://example.com/products/galaxy_s23.png"
+    },
+    {
+      "id": 3,
+      "name": "Sony WH-1000XM5",
+      "category_name": "Headphones",
+      "price": 3229.99,
+      "brand": "Sony",
+      "brand_image": "https://example.com/brands/sony.png",
+      "image": "https://example.com/products/sony_wh1000xm5.png"
+    },
+    {
+      "id": 4,
+      "name": "Dell XPS 13",
+      "category_name": "Laptops",
+      "price": 1732.0,
+      "brand": "Dell",
+      "brand_image": "https://example.com/brands/dell.png",
+      "image": "https://example.com/products/dell_xps13.png"
+    },
+    {
+      "id": 5,
+      "name": "Canon EOS R5",
+      "category_name": "Cameras",
+      "price": 3899.0,
+      "brand": "Canon",
+      "brand_image": "https://example.com/brands/canon.png",
+      "image": "https://example.com/products/canon_eos_r5.png"
+    },
+    {
+      "id": 6,
+      "name": "Nike Air Max 270",
+      "category_name": "Footwear",
+      "price": 150.0,
+      "brand": "Nike",
+      "brand_image": "https://example.com/brands/nike.png",
+      "image": "https://example.com/products/nike_airmax270.png"
+    },
+    {
+      "id": 7,
+      "name": "Adidas Ultraboost",
+      "category_name": "Footwear",
+      "price": 180.0,
+      "brand": "Adidas",
+      "brand_image": "https://example.com/brands/adidas.png",
+      "image": "https://example.com/products/adidas_ultraboost.png"
+    },
+    {
+      "id": 8,
+      "name": "MacBook Air M2",
+      "category_name": "Laptops",
+      "price": 1099.0,
+      "brand": "Apple",
+      "brand_image": "https://example.com/brands/apple.png",
+      "image": "https://example.com/products/macbook_air_m2.png"
+    },
+    {
+      "id": 9,
+      "name": "Bose QuietComfort Earbuds II",
+      "category_name": "Headphones",
+      "price": 299.0,
+      "brand": "Bose",
+      "brand_image": "https://example.com/brands/bose.png",
+      "image": "https://example.com/products/bose_qc_earbuds_ii.png"
+    },
+    {
+      "id": 10,
+      "name": "Sony Alpha a7 III",
+      "category_name": "Cameras",
+      "price": 2000.0,
+      "brand": "Sony",
+      "brand_image": "https://example.com/brands/sony.png",
+      "image": "https://example.com/products/sony_alpha_a7iii.png"
+    }
+  ]
+}
